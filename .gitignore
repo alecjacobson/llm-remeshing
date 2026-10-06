@@ -1,0 +1,9 @@
+__pycache__/
+*.py[cod]
+logs/
+*.blend1
+*.blend2
+/thingi10k-100-blends.zip
+/thingi10k-100-blends.zip.sha256
+/gallery/preview*.png
+/results/*/repair_checkpoint.npz

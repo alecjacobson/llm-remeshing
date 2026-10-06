@@ -1,0 +1,8 @@
+numpy==2.2.6
+scipy==1.15.0
+trimesh==4.12.2
+libigl==2.6.2
+meshlib==3.1.4.297
+requests==2.34.2
+Pillow==12.3.0
+playwright==1.63.0

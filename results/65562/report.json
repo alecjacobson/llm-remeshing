@@ -1,0 +1,38 @@
+{
+  "id": 65562,
+  "index": 30,
+  "method": "Exact surface / triangle-to-three-quads",
+  "exact_source_surface": true,
+  "voxel_size_percent_longest_axis": null,
+  "source_vertices": 2258,
+  "source_triangles": 4516,
+  "vertices": 13548,
+  "quads": 13548,
+  "triangles": 0,
+  "ngons": 0,
+  "boundary_edges": 0,
+  "nonmanifold_edges": 0,
+  "self_intersection_pairs": 0,
+  "watertight": true,
+  "winding_consistent": true,
+  "vertex_manifold": true,
+  "volume": 0.0057461933909200265,
+  "components": 4,
+  "quality": {
+    "sample_count_each_direction": 12000,
+    "rms_percent_bbox_diagonal": 1.1878185834330195e-14,
+    "p95_percent_bbox_diagonal": 5.35481233496937e-15,
+    "max_sample_percent_bbox_diagonal": 9.692259215384894e-13,
+    "source_vertex_max_percent_bbox_diagonal": 0.0,
+    "note": "Sampled distances, not a certified Hausdorff bound. Interior source surfaces count toward repair deviation."
+  },
+  "source_transform": {
+    "center": [
+      247.16400909423828,
+      -20.00100016593933,
+      53.49800109863281
+    ],
+    "scale": 81.35600280761719
+  },
+  "processing_seconds": 0.20941901206970215
+}

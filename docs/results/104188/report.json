@@ -1,0 +1,38 @@
+{
+  "id": 104188,
+  "index": 10,
+  "method": "Winding-number solid reconstruction / exact quad subdivision",
+  "exact_source_surface": false,
+  "voxel_size_percent_longest_axis": 0.15625,
+  "source_vertices": 9977,
+  "source_triangles": 20220,
+  "vertices": 1204584,
+  "quads": 1204692,
+  "triangles": 0,
+  "ngons": 0,
+  "boundary_edges": 0,
+  "nonmanifold_edges": 0,
+  "self_intersection_pairs": 0,
+  "watertight": true,
+  "winding_consistent": true,
+  "vertex_manifold": true,
+  "volume": 0.017082400372315468,
+  "components": 8,
+  "quality": {
+    "sample_count_each_direction": 12000,
+    "rms_percent_bbox_diagonal": 0.01357894129486044,
+    "p95_percent_bbox_diagonal": 0.01972786385583692,
+    "max_sample_percent_bbox_diagonal": 0.5940344415368954,
+    "source_vertex_max_percent_bbox_diagonal": 0.6735704191058862,
+    "note": "Sampled distances, not a certified Hausdorff bound. Interior source surfaces count toward repair deviation."
+  },
+  "source_transform": {
+    "center": [
+      57.13100290298462,
+      209.97601318359375,
+      -8.091000437736511
+    ],
+    "scale": 133.07800579071045
+  },
+  "processing_seconds": 28.999760389328003
+}

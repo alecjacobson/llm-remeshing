@@ -1,0 +1,7 @@
+{
+  "threshold_percent_diagonal": 0.2,
+  "source_sample_count": 12000,
+  "samples_above_threshold": 2883,
+  "fraction_above_threshold_inside_repaired_solid": 1.0,
+  "interpretation": "Interior source surfaces can be removed when overlapping volumes are consolidated. This is not an exterior-only accuracy certificate."
+}

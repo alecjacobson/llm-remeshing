@@ -1,0 +1,18 @@
+MODEL AND DATA LICENSES
+
+This collection has no blanket license covering the source models. Each model
+and its technical mesh conversion retain the original license recorded for that
+model in data/sample.json and listed at docs/attribution.html. Creator names,
+original Thingiverse design links, source download URLs, and SHA-256 hashes are
+included in the manifest. Respect the corresponding NonCommercial, ShareAlike,
+and NoDerivatives conditions. License version numbers are not provided by the
+dataset catalog; the original design page is the authoritative source.
+
+Technical processing is documented per model in results/<id>/report.json:
+normalization, orientation correction, quad partition, and solid reconstruction
+or local repairs where necessary. Scenes also include studio materials, lights,
+and cameras. No new permission to adapt the source designs is granted here.
+
+Dataset attribution:
+Qingnan Zhou and Alec Jacobson. Thingi10K: A Dataset of 10,000 3D-Printing Models.
+arXiv:1605.04797, 2016. https://github.com/Thingi10K/Thingi10K
